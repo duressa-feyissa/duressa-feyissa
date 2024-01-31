@@ -4,7 +4,6 @@
 <p align="center">Ideating and prototyping innovative solutions🚀</p>
 <p align="center">🚀 I'm always exploring new ideas.... </p>
 
-<p align="center"> <a href="https://portfolio-aser.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> </p>
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duresa-feyisa-513271256/) 
