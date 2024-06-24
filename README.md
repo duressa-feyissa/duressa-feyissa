@@ -55,13 +55,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duressa-feyissa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duressa-feyissa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=duressa-feyissa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 ---
-[](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)
+[](https://visitcount.itsvg.in/api?id=duressa-feyissa&icon=0&color=8)
 [![](https://visitcount.itsvg.in/api?id=duressa-feyissa&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
