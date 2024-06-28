@@ -1,8 +1,16 @@
-# Hi 👋🏻, 
-<h1 align="center"> 💫 This is <b> Duresa Feyisa </b> </br> </h1>
+# Hi 👋🏻
+
+<h1 align="center">💫 This is <b>Duresa Feyisa</b></h1>
 <p align="center">Curious about learning new technologies ⚡</p>
-<p align="center">Ideating and prototyping innovative solutions🚀</p>
-<p align="center">🚀 I'm always exploring new ideas.... </p>
+<p align="center">Ideating and prototyping innovative solutions 🚀</p>
+<p align="center">I'm always exploring new ideas...</p>
+
+<p align="center">
+  <a href="https://duresa-feyisa.vercel.app" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF5722?style=for-the-badge" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
 
 
 # 🌐 Socials
