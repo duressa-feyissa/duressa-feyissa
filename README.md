@@ -56,7 +56,7 @@
 
 
 # 📊 LeetCode Stats:
-[![Duresa's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=duresa-feyisa&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.jacoblin.cool/duresa-feyisa?theme=dark&font=Harmattan)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=duressa-feyissa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
